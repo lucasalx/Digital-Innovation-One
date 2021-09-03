@@ -1,2 +1,1 @@
-# Digital-Innovation-One
-creating instagram canvas
+Creating instagram canvas
